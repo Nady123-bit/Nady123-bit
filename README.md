@@ -1,5 +1,5 @@
 👋 Hi, I’m Nady,
- more interested in computer forensics and cyber security but currently learning full stack dev.
+ currently on MERN stack dev, cyber sec and digital forensics.
   
 
 <!---
